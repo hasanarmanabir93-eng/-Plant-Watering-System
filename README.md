@@ -18,7 +18,8 @@ Monitors soil moisture and controls a water pump automatically or via IoT dashbo
 - Jumper Wires & Power Supply
 
 ## Circuit Diagram
-![Circuit Diagram](IMG/circuit.png)
+![Circuit Diagram](IMG/Circuit.png)
+
 
 | Component | ESP32 Pin |
 |-----------|-----------|
